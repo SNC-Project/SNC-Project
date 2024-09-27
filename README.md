@@ -8,6 +8,10 @@ Welcome to **SNC-Project**, a collaborative research endeavor born from the shar
   - **Sunjun Brian Hwang**: Focusing on **Quantum Computing**, exploring how quantum phenomena can revolutionize the way we process information.
   - **Jiwoong choi**: Diving deep into the vast universe through **Astrophysics**, studying celestial bodies and the mysteries of space.
 
+- **Guest Members**
+  - **Kim Hanyeol Park** : 
+
+
 
 ## Our Common Ground
 
